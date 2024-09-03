@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FullFunGamess
-- 👀 I’m interested in Fivem
-- 🌱 I’m currently learning Fivem
-- 💞️ I’m looking to collaborate on Fivem
-- 📫 How to reach me fivem
+<img src="https://raw.githubusercontent.com/FFGDesign/FFGDesign/main/logo.png" />
+
+- 👋 Hi, I’m @FFG Design
+- 👀 I’m lead developer on Fivem servers
 
 <!---
 FullFunGamess/FullFunGamess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
